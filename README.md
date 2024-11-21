@@ -21,5 +21,6 @@ This project investigates the integration of time using TLA+ in drone systems to
     2. The user will be able to see the States Found and the Distinct States in the statistics section of the TLC model checker.
     3. There is also a log of the time passed during the runtime of the code
     4. The user can try running the code with different values for the MissionEndTime , MaxTimeInterval , MinTimeInterval and compare the values for the States Found and the Distinct States .
+    5. All the results are uploaded as input file as .png
 
-This research paper includes novelty as Time sensitive and it got publisehed in IEEE conference in " https://ieeexplore.ieee.org/abstract/document/10503145 ".
+This research paper includes novelty as Time sensitive and it got publisehed in IEEE conference in " https://ieeexplore.ieee.org/abstract/document/10503145 ". And the base paper which has without novelty in IEEE conference is "https://ieeexplore.ieee.org/document/10051801 ".
