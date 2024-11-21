@@ -14,7 +14,7 @@ This project investigates the integration of time using TLA+ in drone systems to
   4. In the new model window , declare Init and Next in the behaviour section and remove the deadlock.
   5. Click the green icon to run the code.
 
-# Analysis of results
+# Analysis of results :
     1. After running the code in the model wait for the results .
     2. The user will be able to see the States Found and the Distinct States in the statistics section of the TLC model checker.
     3. There is also a log of the time passed during the runtime of the code
